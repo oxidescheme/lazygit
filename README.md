@@ -14,6 +14,10 @@ Where function meets form.
   <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=2e2e2e&labelColor=161616&logo=discord&logoColor=cecece"></a>
 </p>
 
+<p align="center">
+  <img src="assets/preview.png" alt="oxide Lazygit preview">
+</p>
+
 oxide for [Lazygit](https://github.com/jesseduffield/lazygit).
 
 ## Installation
